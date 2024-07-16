@@ -1,0 +1,24 @@
+UserID: 1444264366 | Time: 2024-07-16 08:37:50.174437 | Command: /bgmi | Target: 20.235.54.122 | Port: 23099 | Time: 180
+Username: UserID: 1444264366
+Target: 20.235.54.122
+Port: 23099
+Time: 180
+
+UserID: 1444264366 | Time: 2024-07-16 09:19:05.003596 | Command: /bgmi | Target: 4.247.16.190 | Port: 19571 | Time: 180
+Username: UserID: 1444264366
+Target: 4.247.16.190
+Port: 19571
+Time: 180
+
+UserID: 1444264366 | Time: 2024-07-16 09:30:32.931152 | Command: /bgmi | Target: 20.204.18.138 | Port: 25132 | Time: 180
+Username: UserID: 1444264366
+Target: 20.204.18.138
+Port: 25132
+Time: 180
+
+UserID: 1444264366 | Time: 2024-07-16 09:40:47.208867 | Command: /bgmi | Target: 20.204.19.56 | Port: 10749 | Time: 190
+Username: UserID: 1444264366
+Target: 20.204.19.56
+Port: 10749
+Time: 190
+
